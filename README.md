@@ -1,2 +1,2 @@
 # IntelliCrawler
-Independent study project with shuochi huang and cheng ding
+Independent study project with Shuochi Huang and Cheng Ding
